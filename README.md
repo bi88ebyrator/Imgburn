@@ -207,4 +207,4 @@ ImgBurn is offered as a full free version, ensuring all features and updates are
 Ready to enhance your disc burning experience? Download ImgBurn now and take advantage of its powerful features!
 
 ---
-**Last updated:** 2026-09-28 03:48:08 UTC
+**Last updated:** 2026-09-28 10:36:03 UTC
